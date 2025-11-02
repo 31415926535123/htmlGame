@@ -1,6 +1,7 @@
-{
+{"id": "eat",
+  "name": "eat",
   "short_name": "eat",
-  "start_url": "/",
+  "start_url": "./",
   "icons": [
     {
       "src": "icons/favicon_16x16.png",
